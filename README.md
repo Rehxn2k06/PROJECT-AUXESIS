@@ -206,6 +206,15 @@ Ranks the combos and prints top-k
 Optionally recompiles and times them for verification (--verify)
 
 ---
+## Demo Run/Result in my machine
+
+<img src="output/DEMO RESULT.png" alt="My Project Screenshot" width="400" height="275">
+
+ 📊 **Model Insights on my Machine**
+<img src="output/feature_importances_XGB.png" alt="My Project Screenshot" width="400" height="275">
+
+
+---
 ## 📊 Limitations & Future Work
 
 >Dataset is small: ~11 benchmark programs × selected flag combos.

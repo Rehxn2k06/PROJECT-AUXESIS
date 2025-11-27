@@ -2,7 +2,7 @@
 """
 Recommend compiler flag combos for a given C++ source using a saved surrogate model.
 - Assumes model predicts log(runtime / baseline_O3_time) (i.e., relative log).
-- By default loads XGB model from Model/xgb_model.joblib (can override with --model).
+- By default loads XGB model from Model/xgb_model_main.joblib (can override with --model).
 """
 
 import argparse
