@@ -208,10 +208,17 @@ Optionally recompiles and times them for verification (--verify)
 ---
 ## Demo Run/Result in my machine
 
-<img src="output/DEMO RESULT.png" alt="My Project Screenshot" width="400" height="275">
+<img src="output/DEMO RESULT.png" alt="My Project Screenshot" width="400" height="275">  
 
- 📊 **Model Insights on my Machine**
-<img src="output/feature_importances_XGB.png" alt="My Project Screenshot" width="400" height="275">
+
+
+ 📊 **Model Insights on my Machine**  
+
+
+
+<img src="output/feature_importances_XGB.png" alt="Feature importance of model" width="400" height="275">  
+
+
 
 
 ---
