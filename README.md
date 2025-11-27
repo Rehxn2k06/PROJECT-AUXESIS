@@ -258,5 +258,5 @@ It learns program behavior — builds a surrogate model —and recommends good o
 ## 🔗 Authors
 **Rehan Imtiyaj Mulla**  
 Data Science Undergraduate | Machine learning Engineer | Aspiring Quantitative Analyst  
-[LinkedIn](www.linkedin.com/in/rehan-mulla-8719b62b8)  
+[LinkedIn](https://www.linkedin.com/in/rehan-mulla-8719b62b8/)  
 [GitHub](https://github.com/Rehxn2k06)
