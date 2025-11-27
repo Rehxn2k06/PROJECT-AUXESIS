@@ -245,3 +245,18 @@ Future directions:
 >Integrate with a UI (e.g., Streamlit) for interactive exploration
 
 >Extend to Clang / -march variants / profile-guided optimizations
+
+
+```
+NOTE-  
+This system does not brute-force compiler flags.
+
+It learns program behavior — builds a surrogate model —and recommends good optimization flags in milliseconds instead of running hours of benchmarks.
+```
+
+---
+## 🔗 Authors
+**Rehan Imtiyaj Mulla**  
+Data Science Undergraduate | Machine learning Engineer | Aspiring Quantitative Analyst  
+[LinkedIn](www.linkedin.com/in/rehan-mulla-8719b62b8)  
+[GitHub](https://github.com/Rehxn2k06)
